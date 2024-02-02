@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HoroscApp</string>
+    <string name="hello_blank_fragment">Hola Mundo Cruel</string>
+
+    <!-- BottomBar -->
+    <string name="horoscope">Horoscopo</string>
+    <string name="palmistry">Palma</string>
+    <string name="luck">Suerte</string>
+</resources>
